@@ -1,0 +1,15 @@
+#summary Compatibility of tarlog-plugins.
+
+= Compatibility =
+
+== Version 1.4.2 ==
+
+The 1.4.2 was tested and found working with the following Eclipse versions:
+ 
+ * Eclipse 4.2 RC3
+ * Eclipse 3.7
+ * Eclipse 3.6
+ * Eclipse 3.5
+
+All the test were done on Windows OS.
+Since 2011 I'm running Eclipse mostly on Windows Vista both 32 and 64 bit.
