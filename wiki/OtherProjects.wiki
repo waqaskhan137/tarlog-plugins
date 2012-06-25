@@ -1,0 +1,8 @@
+#summary Other Projects
+
+= Other Projects =
+
+If you liked this plugin (or even if you didn't) you may find my other projects interesting (or even worth using):
+
+ * [http://code.google.com/p/tarlog-encoder-tool/ Encoder Plugin for Eclipse (Also available as a standalone application)]
+ * [http://code.google.com/p/replace-file-plugin/ Replace File (Hotswap) Maven Plugin]
