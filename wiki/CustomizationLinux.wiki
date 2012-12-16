@@ -9,9 +9,11 @@ To Configure *Open Shell* and *Open Explorer* commands in the Eclipse-Menu Windo
 
 === Open Shell command ===
 
+{{{
 /usr/bin/nohup gnome-terminal --working-directory={0} & 
-
+}}}
 
 === Open Explorer Command ===
-
+{{{
 /usr/bin/nohup nautilus   {0} &
+}}}
