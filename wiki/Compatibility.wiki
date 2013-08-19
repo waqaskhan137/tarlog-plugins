@@ -13,4 +13,4 @@ I have actively used the 1.4.2 on the following Eclipse releases:
  * Eclipse 3.5 (Galileo)
 
 All the test were done on Windows OS.
-Since 2011 I'm running Eclipse mostly on Windows Vista both 32 and 64 bit.
+Since 2011 I'm running Eclipse mostly on Windows 7 both 32 and 64 bit.
