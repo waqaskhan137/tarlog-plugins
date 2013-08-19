@@ -6,7 +6,8 @@
 
 I have actively used the 1.4.2 on the following Eclipse releases:
  
- * Eclipse 4.2 RC3 (Juno)
+ * Eclipse 4.3 (Kepler)
+ * Eclipse 4.2 (Juno)
  * Eclipse 3.7 (Indigo)
  * Eclipse 3.6 (Helios)
  * Eclipse 3.5 (Galileo)
